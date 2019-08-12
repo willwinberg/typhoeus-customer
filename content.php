@@ -3,5 +3,4 @@
         echo "egwvf";
         echo "lrsls";
         echo "qktif";
-        echo "ydbji";
 ?>
